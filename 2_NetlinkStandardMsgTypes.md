@@ -1,5 +1,5 @@
 
-**Netlink Message Header & Types: Detailed Notes**
+**Netlink Message Header & Types**
 
 ---
 
