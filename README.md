@@ -47,19 +47,11 @@ Welcome to the repository that delves deep into the world of Netlink communicati
     - **"Linux Kernel Networking"** by Rami Rosen: This book offers a deep dive into Linux networking, with a section dedicated to Netlink.
     - **"Linux Device Drivers, 3rd Edition"** by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman: While the primary focus is on device drivers, it offers invaluable insights into the Linux kernel, which can enhance understanding of concepts like Netlink.
 
-4. **GitHub Repositories & Code Samples:**
-    - [Example of using Netlink from a user-space program](https://github.com/song201004040046/netlink_example)
-    - [Netlink socket programming basics](https://github.com/martinkennedy/netlink-examples)
-
-5. **Online Courses & Videos:**
-    - [Introduction to Netlink Sockets - YouTube](https://www.youtube.com/watch?v=GSoOw8vtFQo)
-    - [Netlink development for beginners - FOSDEM talk](https://www.youtube.com/watch?v=IYvQUZVt6eI)
-
-6. **Tools & Libraries:**
+4. **Tools & Libraries:**
     - [`iproute2` source code on GitHub](https://github.com/shemminger/iproute2): Explore the source code of `iproute2` utilities to see Netlink in action.
     - [libnl: Netlink Protocol Library Suite](https://www.infradead.org/~tgr/libnl/): This is a collection of libraries providing APIs to work with Netlink.
 
-7. **Forums & Communities:**
+5. **Forums & Communities:**
     - [Stack Overflow's `netlink` tagged questions](https://stackoverflow.com/questions/tagged/netlink): A great place to ask questions and get answers from the community.
     - [Netdev mailing list](https://netdevconf.info/): This is the primary discussion forum for Linux networking, where a lot of Netlink discussions occur.
 
